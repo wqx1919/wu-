@@ -45,3 +45,4 @@
 const regbody = / < img  src = "\/\/bookcover\.yuewen\.com\/qdbimg\/.*" > /
 起点匹配封面
   2022年1月14日14点35分
+书名——封面用api能完成了，希望这个api能坚持到我身边答辩的那一刻2022年1月14日21点08分
